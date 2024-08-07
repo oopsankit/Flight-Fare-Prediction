@@ -43,7 +43,7 @@
         deactivate                              # close virtual environment once done
         
 ### Bug / Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/skillcate/flight-price-prediction/issues) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue by including your search query and the expected result.
 
 ### Important links:
 * [Dataset](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh)
